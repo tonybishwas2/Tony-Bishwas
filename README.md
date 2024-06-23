@@ -1,5 +1,5 @@
 ## Hi there, I'm [Tony Bishwas] 👋
-Assistant Project Manager
+Assistant Project Manager | Digital Marketing Trainer | Growth & Marketing Specialist
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on Assistant Project Manager at ishQool, excels in coordinating project tasks,
  ensuring timely delivery, and enhancing team collaboration. With a keen eye
