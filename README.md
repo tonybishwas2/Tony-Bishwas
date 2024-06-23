@@ -12,14 +12,13 @@ Assistant Project Manager
 - 📫 How to reach me: [tonoybishwas.p@gmail.com]
 - ⚡ Fun fact: Facebook https://www.facebook.com/akash.rahul.718/
 
-### 🛠 Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
+### 🛠 Media Profile:
+![Facebook](https://www.facebook.com/akash.rahul.718/) 
+![Pintarest](https://www.pinterest.com/tonybishwas/_created/) 
+![Tumblr](https://www.tumblr.com/bishwastony) 
+![Quora](https://www.quora.com/profile/Tony-Bishwas) 
+![X](https://x.com/Tonybishwas999) 
+![Instagram](https://www.instagram.com/bishwas_tonoy/) 
 
 ### 🚀 Projects:
 - [Project 1](https://github.com/yourusername/project1): My role is a Digital Marketing Instructor at SR Communication & IT Solution,
